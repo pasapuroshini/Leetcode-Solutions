@@ -31,3 +31,9 @@ class Solution {
 
            
 }
+/*Time Complexity: O(sqrt(n))
+This is because the outer loop runs roughly sqrt(n) times in the worst case, and within each iteration of the outer loop, the inner loop runs a constant number of times, depending on how many times the factor divides n.
+
+Space Complexity
+Space Complexity: O(1)
+The space complexity is constant O(1) since the algorithm uses only a fixed amount of additional space, regardless of the size of n. The variables steps, factor, and n are the only ones used, and they occupy constant space.*/
