@@ -1,4 +1,4 @@
-class Solution {
+class P3{
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int maxLength = 0;
