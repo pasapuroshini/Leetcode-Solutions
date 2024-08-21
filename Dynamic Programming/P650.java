@@ -8,7 +8,7 @@ In essence, the solution works by summing up the prime factors of n, which direc
 
 
 
-class Solution {
+class P650{
     public int minSteps(int n) {
         if(n==1)
          return 0;
