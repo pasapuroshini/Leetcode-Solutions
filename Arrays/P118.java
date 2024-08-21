@@ -5,7 +5,7 @@
 
 
 
-class PascalTriangle119{
+class P118{
 
     // Method to generate a specific row of Pascal's Triangle
     public static List<Integer> generateRow(int row) {
