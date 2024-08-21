@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+class P994 {
     public int orangesRotting(int[][] grid) {
         Queue<int[]> q = new LinkedList<>();
         int m = grid.length;
