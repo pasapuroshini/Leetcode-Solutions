@@ -1,7 +1,7 @@
 
 
 
-class PascalTriangle2 {
+class P119 {
     public List<Integer> getRow(int rowIndex) {
         long ans=1;
         List<Integer> answer=new ArrayList<>();
