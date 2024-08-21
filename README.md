@@ -2,6 +2,7 @@
 
 
 Welcome to my LeetCode Solutions repository! This repository contains all the coding problems I've solved on LeetCode, categorized by topic . Feel free to explore and use the solutions as a reference for your own learning.
+files are named with Pquestionnumber.java
 
 
 The repository is organized into folders based on the problem topics, with each folder containing solutions in  Java.
