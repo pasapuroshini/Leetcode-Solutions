@@ -21,13 +21,4 @@ Each solution is provided with the following structure:
 
 Contributions are welcome! If you'd like to add your own solutions or improvements, please fork the repository and create a pull request with a brief description of the changes. Ensure that the code is well-commented and follows the repository structure.
 
-## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me:
-
-- **Email**: [Click Here](mailto:pasapuroshini0912@gmail.com)
-- **LinkedIn**: [Roshnii](https://www.linkedin.com/in/roshinip0912/)
-
----
-
-Happy Coding!
